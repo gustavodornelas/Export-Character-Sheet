@@ -1,0 +1,26 @@
+{
+  "id": "export-character-sheet",
+  "title": "Export Character Sheet",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "📜 Module Description\n📖 D&amp;D 5e Standard Character Sheet is a Foundry VTT module that adds a button to Dungeons &amp; Dragons 5e character sheets.\nWith a single click, it converts the digital sheet into the official D&amp;D 5e character sheet format, allowing for printing or exporting as a PDF for easy sharing.\n\n🔹 Key Features:\n✔️ Adds a button to the character sheet for instant conversion.\n✔️ Generates a customizable official D&amp;D 5e character sheet.\n✔️ Allows printing or PDF export.\n✔️ Retains all essential information, including attributes, skills, equipment, and spells.",
+  "authors": [
+    {
+      "name": "Gustavo Dornelas",
+      "email": "dornelas.gustavoptc@gmail.com",
+      "url": "https://github.com/gustavodornelas",
+      "discord": "itshannibal",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/styles.css"
+  ],
+  "url": "https://github.com/gustavodornelas/Export-Character-Sheet.git"
+}
